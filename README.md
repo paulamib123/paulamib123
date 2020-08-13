@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Paulami Bhattacharya a Second Year IT Student and Technology Enthusiast from :india: .\\
+I am Paulami Bhattacharya a Second Year IT Student and Technology Enthusiast from :india: . \
 I am also a Women Techmakers Engineering Fellows Scholar. :woman_technologist:
 
 ### 🔭 I’m currently working on -
