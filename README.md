@@ -25,4 +25,4 @@ More about Machine Learning
 
 ###  📫 How to reach me?
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/paulami-bhattacharya-7b72131a4/)
-* Send me an [Email](paulamixbhattacharya@gmail.com)
+* Send me an [Email](mailto:paulamixbhattacharya@gmail.com):email:
