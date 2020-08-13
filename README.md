@@ -24,5 +24,5 @@ An AI based Real Time Sudoku Solver using OpenCV
 More about Machine Learning
 
 ###  📫 How to reach me?
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/paulami-bhattacharya-7b72131a4/)
-* Send me an [Email](mailto:paulamixbhattacharya@gmail.com):email:
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/paulami-bhattacharya-7b72131a4/):computer:
+* Send me an [Email](mailto:paulamixbhattacharya@gmail.com):e-mail:
