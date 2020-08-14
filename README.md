@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 I am Paulami Bhattacharya a Second Year IT Student and Technology Enthusiast from :india: . \
 I am also a Women Techmakers Engineering Fellows Scholar. :woman_technologist:
 
+### I can work with -
+[](https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+[](https://banner2.cleanpng.com/20180629/kkz/kisspng-tensorflow-google-brain-machine-learning-deep-lear-machine-learning-5b35d7c0aac846.2026674915302552966995.jpg)
+
 ### 🔭 I’m currently working on -
 An AI based Real Time Sudoku Solver using OpenCV
 
