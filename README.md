@@ -17,11 +17,19 @@ Here are some ideas to get you started:
 I am Paulami Bhattacharya a Second Year IT Student and Technology Enthusiast from :india: . \
 I am also a Women Techmakers Engineering Fellows Scholar. :woman_technologist:
 
-### I can work with -
-<img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
-<img src="https://banner2.cleanpng.com/20180629/kkz/kisspng-tensorflow-google-brain-machine-learning-deep-lear-machine-learning-5b35d7c0aac846.2026674915302552966995.jpg" width="100">
-<!-- ![](https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif =20x20)
-![](https://banner2.cleanpng.com/20180629/kkz/kisspng-tensorflow-google-brain-machine-learning-deep-lear-machine-learning-5b35d7c0aac846.2026674915302552966995.jpg =20x20) -->
+### :woman_technologist: I can work with -
+* Python
+* C++
+* C
+* Flask
+* OpenCV
+* Tensorflow/Keras
+* HTML/CSS
+* React
+
+#### Databases
+* PostgreSQL
+* Oracle
 
 ### 🔭 I’m currently working on -
 An AI based Real Time Sudoku Solver using OpenCV
