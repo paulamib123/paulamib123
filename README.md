@@ -7,7 +7,7 @@
  
 - 👯 I’m looking to collaborate on **Anything!**
 
-- 👩‍💻 View my [Portfolio](https://portfolios.talentsprint.com/~paulami/)
+<!---- 👩‍💻 View my [Portfolio](https://portfolios.talentsprint.com/~paulami/)--->
 
 - 📫 Reach me at **paulamixbhattacharya@gmail.com**
 
