@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **paulamixbhattacharya@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>;
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
