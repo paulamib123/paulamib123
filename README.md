@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paulami Bhattacharya</h1>
 <h3 align="center">A Learner and Technology Enthusiast</h3>
 
-- 🔭 I’m currently working on **An AI based Sudoku Solver**
+- 🔭  I’m currently working on **An AI based Sudoku Solver**
 
-- 🌱 I’m currently learning **React JS, Machine Learning, Competitive Coding**
+- 🌱  I’m currently learning **React JS, Machine Learning, Competitive Coding**
 
-- 👯 I’m looking to collaborate on **Anything!**
+- 👯  I’m looking to collaborate on **Anything!**
 
-- 👨‍💻 Check out my portfolio at [https://portfolios.talentsprint.com/~paulami/](https://portfolios.talentsprint.com/~paulami/)
+- 👩‍💻 Check out my portfolio at [https://portfolios.talentsprint.com/~paulami/](https://portfolios.talentsprint.com/~paulami/)
 
-- 📫 Reach me at **paulamixbhattacharya@gmail.com**
+- 📫  Reach me at **paulamixbhattacharya@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
 
