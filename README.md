@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paulami Bhattacharya</h1>
 <h3 align="center">A Learner and Technology Enthusiast</h3>
 
-- 🔭  I’m currently working on **An AI based Sudoku Solver**
+- 🔭  I’m currently working on **A Telegram Bot**
 
-- 🌱  I’m currently learning **React JS, Machine Learning, Competitive Coding**
+- 🌱  I’m currently learning **React JS, Machine Learning, DSA**
 
-- 👯  I’m looking to collaborate on **Anything!**
+- 👯  Always open to collaborating!
 
 - 👩‍💻 Check out my <a href="https://portfolios.talentsprint.com/~paulami/"> portfolio here</a>!
 
@@ -25,4 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulamib123&show_icons=true&locale=en&layout=compact" alt="paulamib123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulamib123&show_icons=true&locale=en" alt="paulamib123" /></p>
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulamib123&show_icons=true&locale=en" alt="paulamib123" /></p> --->
+
