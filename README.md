@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulami-bhattacharya-7b72131a4/?originalsubdomain=in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/paulami-bhattacharya-7b72131a4/?originalsubdomain=in" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/paulami123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="paulami123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/paulamixbhattacharya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="paulamixbhattacharya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/paulamib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="paulamixbhattacharya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
