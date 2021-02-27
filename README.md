@@ -7,7 +7,7 @@
 
 - 👯  Always open to collaborating!
 
-- 👩‍💻 Check out my <a href="https://portfolios.talentsprint.com/~paulami/"> portfolio here</a>!
+<!-- - 👩‍💻 Check out my <a href="https://portfolios.talentsprint.com/~paulami/"> portfolio here</a>! -->
 
 - 📫  Reach me at **paulamixbhattacharya@gmail.com**
 
