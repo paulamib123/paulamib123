@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paulami Bhattacharya</h1>
 <h3 align="center">A Learner and Technology Enthusiast</h3>
 
-- 🔭  I’m currently working on **A Telegram Bot**
+- 🔭  I’m currently working on **A DNA Language Model**
 
-- 🌱  I’m currently learning **React JS, Machine Learning, DSA**
+- 🌱  I’m currently learning **Machine Learning, Deep Learning, Generative AI**
 
 - 👯  Always open to collaborating!
 
 <!-- - 👩‍💻 Check out my <a href="https://portfolios.talentsprint.com/~paulami/"> portfolio here</a>! -->
 
-- 📫  Reach me at **paulamixbhattacharya@gmail.com**
+- 📫  Reach me at **paulamib123.dev@gmail.com**
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
 
