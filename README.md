@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulami Bhattacharya</h1>
 <h3 align="center">A Learner and Technology Enthusiast</h3>
 
-- 🔭  I’m currently working at **Spark-NLP**
+- 🔭  I’m currently working on contributing to **Spark-NLP**
 
 - 🌱  I’m currently learning **Machine Learning, Deep Learning, Generative AI**
 
