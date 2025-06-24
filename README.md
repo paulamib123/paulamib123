@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on contributing to **Spark-NLP**
 
-- 🌱  I’m currently learning **Machine Learning, Deep Learning, Generative AI**
+- 🌱  I’m currently learning about **AI Agents & Generative AI**
 
 - 👯  Always open to collaborating!
 
