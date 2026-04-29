@@ -11,12 +11,16 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
-
 ## 🧠 About Me
 
-I'm a passionate **Data Engineer** with a focus on **Natural Language Processing**. I work on building data and machine learning systems. I love tackling real-world problems, from designing Healthcare AI data pipelines to developing ML models that can detect negative thought patterns in people. These efforts can lead to better health outcomes. I enjoy working across different data areas and have hands-on experience in healthcare, geospatial, and language based datasets. Outside of work, I’m interested in mental health and fashion.
+<p>
+  <img align="right"
+       width="400"
+       src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"
+       style="margin-left: 20px;" />
 
+  I'm a passionate **Data Engineer** with a focus on **Natural Language Processing**. I work on building data and machine learning systems. I love tackling real-world problems, from designing Healthcare AI data pipelines to developing ML models that can detect negative thought patterns in people. These efforts can lead to better health outcomes. I enjoy working across different data areas and have hands-on experience in healthcare, geospatial, and language based datasets. Outside of work, I’m interested in mental health and fashion.
+</p>
 
 - 🔭 Currently working as a Data Scientist at John Snow Labs, developing Spark based **healthcare AI pipelines** that harness NLP and deep learning to improve clinical insights and patient outcomes.
 - 🌱 Actively learning about **AI Agents & Generative AI**
