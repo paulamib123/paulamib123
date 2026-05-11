@@ -19,7 +19,7 @@
        src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"
        style="margin-left: 20px;" />
 
-  I'm a passionate **Data Engineer** with a focus on **Natural Language Processing**. I work on building data and machine learning systems. I love tackling real-world problems, from designing Healthcare AI data pipelines to developing ML models that can detect negative thought patterns in people. These efforts can lead to better health outcomes. I enjoy working across different data areas and have hands-on experience in healthcare, geospatial, and language based datasets. Outside of work, I’m interested in psychology and fashion.
+  I'm a passionate **Data Engineer** with a focus on **Natural Language Processing**. I work on building data and machine learning systems. I love tackling real-world problems, from designing Healthcare AI data pipelines to developing ML models that can classify cognitive thought patterns from text. These efforts can lead to better health outcomes. I enjoy working across different data areas and have hands-on experience in healthcare, geospatial, and language based datasets. Outside of work, I’m interested in psychology and fashion.
 </p>
 
 - 🔭 Currently working as a Data Scientist at John Snow Labs, developing Spark based **healthcare AI pipelines** that harness NLP and deep learning to improve clinical insights and patient outcomes.
@@ -32,51 +32,24 @@
 ---
 
 ## 🚀 Featured Projects
+* ### 📊 [Netflix Analytics Data Pipeline](https://github.com/paulamib123/netflix_analytics_data_pipeline) — End-to-End Data Engineering Pipeline
+  Built an end-to-end Netflix analytics pipeline to ingest, transform, and analyze streaming data using automated ETL workflows, SQL-based analytics,   and data visualization for actionable insights.
 
-### 🧠 [JournalWise](https://github.com/paulamib123/JournalWise) — Negative Thought Patterns Detection
-> **NLP · FastAPI · Streamlit · Gemini API · nlpaug · NLTK**
-
-A full-stack ML app that detects Negative Thought Patterns in personal journal entries to support mental health through AI.
-
-- Scraped and labeled Reddit mental health data using the Reddit API and LLM-assisted rule-based labeling
-- Built and compared Logistic Regression and SVM classifiers with data augmentation via `nlpaug`
-- Deployed as a REST API with **FastAPI** and an interactive UI with **Streamlit**
-- Integrated **Gemini API** to reframe distorted thoughts positively
-
+ 
+* ### 📚 [BookReview App](https://github.com/paulamib123/BookReview) — Full Stack Web App
+  Created a full-stack book review platform with authentication, search, and review features using React frontend, Flask REST API backend, PostgreSQL   database, and Heroku deployment.
+---
+* ### 🧠 [JournalWise](https://github.com/paulamib123/JournalWise) — Mental Health based ML Pipeline
+  Built a full-stack ML app to detect negative thought patterns from journal entries using Reddit-scraped mental health data, Logistic Regression/SVM   models with augmentation, FastAPI + Streamlit deployment, and Gemini API for positive thought reframing.
 ---
 
-### 🧬 [DNA Language Model](https://github.com/paulamib123/DNA-Language-Model) — Cross-Species Codon Optimization
-> **Transformers · CodonBERT · PyTorch · Bioinformatics**
-
-A unified transformer model generating optimized DNA sequences from protein inputs across multiple species.
-
-- Extended **CodonBERT** with amino acid, species embeddings, and 62+ vocabulary tokens
-- Trained on 337,000+ sequences across 5 organisms; achieved **Test Perplexity of 8.52**
-
+* ### 🧬 [DNA Language Model](https://github.com/paulamib123/DNA-Language-Model) — Cross-Species Codon Optimization
+  Developed a transformer-based DNA sequence generator using extended CodonBERT with amino acid/species embeddings, trained on 337K+ sequences across   5 organisms achieving a test perplexity of 8.52.
 ---
 
-### 🛡️ [Toxic Comment Classifier](https://github.com/paulamib123/Toxic-Comment-Classifier) — Content Moderation with NLP
-> **DistilBERT · PyTorch · Scikit-learn · HuggingFace**
-
-Multi-label toxicity classifier trained on 172,000+ Wikipedia comments.
-
-- Logistic Regression baseline: ROC-AUC 0.71 → Fine-tuned **DistilBERT**: ROC-AUC **0.94**
-- Conducted in-depth error and bias analysis across 6 toxicity categories
-
----
-
-### 📚 [BookReview App](https://github.com/paulamib123/BookReview) — Full Stack Web App
-> **React · Flask · PostgreSQL · HTML/CSS**
-
-Full-stack app for user auth, book search, and reviews — React frontend + Flask REST API + PostgreSQL, deployed on Heroku.
-
----
-
-### 📄 [Resume Parser NLP](https://github.com/paulamib123/Resume-Parser-NLP)
-> **NLP · Python · Jupyter Notebook**
-
-NLP-based system to automatically extract structured information (skills, education, experience) from resumes.
-
+* ### 🛡️ [Toxic Comment Classifier](https://github.com/paulamib123/Toxic-Comment-Classifier) — Content Moderation with NLP
+  Built a multi-label toxicity classifier on 172K+ Wikipedia comments, improving ROC-AUC from 0.71 (Logistic Regression baseline) to 0.94 using         fine-tuned DistilBERT with detailed bias/error analysis.
+  
 ---
 ## 💻 Technical Stack
 
