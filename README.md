@@ -34,7 +34,7 @@
 ## 🚀 Featured Projects
 * ### 📊 [Netflix Analytics Data Pipeline](https://github.com/paulamib123/netflix_analytics_data_pipeline) — End-to-End Data Engineering Pipeline
   Built an end-to-end Netflix analytics pipeline to ingest, transform, and analyze streaming data using automated ETL workflows, SQL-based analytics,   and data visualization for actionable insights.
-
+---
  
 * ### 📚 [BookReview App](https://github.com/paulamib123/BookReview) — Full Stack Web App
   Created a full-stack book review platform with authentication, search, and review features using React frontend, Flask REST API backend, PostgreSQL   database, and Heroku deployment.
